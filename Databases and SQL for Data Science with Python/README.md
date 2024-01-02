@@ -5,3 +5,5 @@ In this 29-hour course I sharpened my skills on SQL functions and queries creati
 Finally, I completed the course with a final project of taking a real-world data CSV file (Chicago Crime rates datasheet) and abstracting important data from said datasheet.
 
 Overall, the course was very beneficial to my continued studies in data science and I'm glad I took the time to do it.
+
+![Databases and SQL for DATA Science with Python](Coursera ZU72UEVWN83C.pdf)
